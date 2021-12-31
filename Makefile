@@ -1,2 +1,2 @@
 default:
-	echo 'Building stage success!' > success.out
+	echo "Building stage success!" > success.out
